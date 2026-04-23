@@ -37,7 +37,5 @@ View prediction result:
 📉 DOWN
 
 Main app file:
-app.py
 👉 app.py
 
-📂 Project Structure
